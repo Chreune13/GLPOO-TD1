@@ -1,6 +1,6 @@
 # TD cours de genie logiciel 2021
 
-## Exercice 1111111111111111111:
+## Exercice 1:
 
 Développer un formulaire d’inscription pour un client de votre magasin. Le but étant de suivre le modèle MVC pour votre développement. Vous utiliserez une base de donnée SQLite à l'aide de SQLAlchemy.
 Developper une seconde application d'administration dans laquelle il sera possible de :
